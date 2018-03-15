@@ -49,16 +49,16 @@ donate:
   paypal_url: ## Paypal URL, e.g. https://paypal.me/tufu9441
 
 menu:
-  - page: home
+  - page: 首页
     directory: .
     icon: fa-home
-  - page: archive
+  - page: 归档
     directory: archives/
     icon: fa-archive
-  - page: about
+  - page: 关于
     directory: about/
     icon: fa-user
-  - page: rss
+  - page: 订阅
     directory: atom.xml
     icon: fa-rss
 
